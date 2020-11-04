@@ -1,0 +1,28 @@
+html, body { height: 100% }
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+
+.background {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: -1;
+}
+
+.footer {
+    background-color: #4F56C0;
+}
+
+.backy{
+    background-image: url("../img/purplely.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    opacity: 60%;
+}
