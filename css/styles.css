@@ -8,8 +8,16 @@
 
 .texty {
     color: white;
-    font-family: 'Averia Sans Libre', cursive;
     font-size: 30px;
+    font-family: 'Inter', sans-serif;
+}
+
+.card {
+    height: 200px;
+}
+
+.card-header {
+    font-family: 'Inter', sans-serif;
 }
 
 #particles-js {
